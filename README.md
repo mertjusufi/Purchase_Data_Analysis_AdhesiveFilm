@@ -1,7 +1,3 @@
-# Purchase_Data_Analysis_AdhesiveFilm
-Analysis of Self-adhesive Vinyl Film purchases using Python. Features include statistical profiling, top/bottom purchase identification, ABC classification, and outlier detection. Includes data visualization for quick insights into fast/slow-moving items.
-
-
 # Purchase Data Analysis - Adhesive Film
 Welcome to my repository for the analysis of purchase data for Self-adhesive Vinyl Films. This Python-based project offers several features to extract and visualize meaningful insights from the purchasing data.
 
